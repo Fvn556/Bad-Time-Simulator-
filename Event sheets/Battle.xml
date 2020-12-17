@@ -192,7 +192,7 @@
                             <param id="0" name="Height">32</param>
                         </action>
                         <action id="0" name="Set text" sid="8939946990053354" type="BattleFont">
-                            <param id="0" name="Text">&quot;PRESS &apos;X&apos; TO QUIT&quot;</param>
+                            <param id="0" name="Text">&quot;PRESS &apos;X&apos; TO LEAVE&quot;</param>
                         </action>
                     </actions>
                 </event-block>

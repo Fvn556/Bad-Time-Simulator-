@@ -153,7 +153,7 @@
                             <param id="0" name="Height">32</param>
                         </action>
                         <action id="0" name="Set text" sid="866871016798015" type="BattleFont">
-                            <param id="0" name="Text">&quot;LOADING ATTACKS &quot; &amp; FileIndex &amp; &quot; / &quot; &amp; AttackLoader.Width</param>
+                            <param id="0" name="Text">&quot;HHHHHHHH ATTACKS &quot; &amp; FileIndex &amp; &quot; / &quot; &amp; AttackLoader.Width</param>
                         </action>
                     </actions>
                 </event-block>
